@@ -1,0 +1,5 @@
+pandas
+openpyxl
+requests
+schedule
+APScheduler
